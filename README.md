@@ -5,7 +5,7 @@
 <img align="center" src=https://github-readme-stats-rust-kappa.vercel.app/api/top-langs/?username=nixuge&theme=tokyonight&langs_count=10&layout=compact width="41%">
 <br><br>
 <img align="center"src=https://github-readme-stats-rust-kappa.vercel.app/api/wakatime?username=nixuge&theme=tokyonight max-width="49%">
-<b>Python & Java & Rust very cool (not javascript)</b>
+<b>Python & Java & Rust very cool (not js)</b>
 </p>
 
 # Hello 2
