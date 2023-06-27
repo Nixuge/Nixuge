@@ -1,10 +1,10 @@
 # Hi there 👋
 
 <p>
-<img align="center" src=https://github-readme-stats-rust-kappa.vercel.app/api?username=nixuge&theme=tokyonight&show_icons=true&count_private=true&custom_title=Nixuge's%20Stats%20-%20Last%201%20Year width="49%">
-<img align="center" src=https://github-readme-stats-rust-kappa.vercel.app/api/top-langs/?username=nixuge&theme=tokyonight&langs_count=10&layout=compact width="41%">
+<img align="center" src=https://github-readme-stats-rust-kappa.vercel.app/api?username=Nixuge&theme=tokyonight&show_icons=true&count_private=true&custom_title=Nixuge's%20Stats%20-%20Last%201%20Year width="49%">
+<img align="center" src=https://github-readme-stats-rust-kappa.vercel.app/api/top-langs/?username=Nixuge&theme=tokyonight&langs_count=10&layout=compact width="41%">
 <br><br>
-<img align="center"src=https://github-readme-stats-rust-kappa.vercel.app/api/wakatime?username=nixuge&theme=tokyonight max-width="41%">
+<img align="center"src=https://github-readme-stats-rust-kappa.vercel.app/api/wakatime?username=Nixuge&theme=tokyonight max-width="41%">
 <b>Python & Java & Rust very cool (not js)</b>
 </p>
 
