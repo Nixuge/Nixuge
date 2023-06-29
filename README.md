@@ -30,5 +30,5 @@ If you ever need support feel free to contact using:
 <img src=https://github-readme-stats-rust-kappa.vercel.app/api/top-langs/?username=Nixuge&theme=tokyonight&langs_count=10&layout=compact width="29%">
 </p>
 <p>
-<img src=https://github-readme-stats-rust-kappa.vercel.app/api/wakatime?username=Nixuge&theme=tokyonight&layout=compact max-width="41%">
+<img src=https://github-readme-stats-rust-kappa.vercel.app/api/wakatime?username=Nixuge&theme=tokyonight&langs_count=20&layout=compact max-width="41%">
 </p>
