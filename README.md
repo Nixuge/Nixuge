@@ -22,7 +22,7 @@ If you ever need support feel free to contact using:
 ![Need more training](https://skillicons.dev/icons?i=rust,unity&perline=10)
 
 ## Want to learn
-![Want to learn](https://skillicons.dev/icons?i=tauri,swift,wasm,cpp,qt&perline=10)
+![Want to learn](https://skillicons.dev/icons?i=tauri,swift,ruby,wasm,cpp,qt&perline=10)
 
 ## Other stats
 <p>
