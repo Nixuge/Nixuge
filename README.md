@@ -13,7 +13,7 @@ If you ever need support feel free to contact using:
 <!-- thanks to skillicons.dev for the icons -->
 
 ## Known languages
-![Known languages](https://skillicons.dev/icons?i=java,python,typescript,js,vuejs,html,css,cs,bash&perline=10)
+![Known languages](https://skillicons.dev/icons?i=java,python,typescript,js,vuejs,svelte,html,css,cs,bash&perline=10)
 
 ## Used technologies
 ![Using](https://skillicons.dev/icons?i=linux,vscode,idea,github,git,docker,vim,gradle,nginx,cloudflare,vite,vercel,selenium,postgres,sqlite,ps&perline=10)<br>\+ Forge, Fabric, Bukkit (Spigot, Paper), Folia, & some more...
