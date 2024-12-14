@@ -26,9 +26,9 @@ If you ever need support feel free to contact using:
 
 ## Other stats
 <p>
-<img src=https://github-readme-stats-rust-kappa.vercel.app/api?username=Nixuge&theme=tokyonight&show_icons=true&count_private=true&custom_title=Nixuge's%20Stats%20-%20Last%201%20Year width="50%">
-<img src=https://github-readme-stats-rust-kappa.vercel.app/api/top-langs/?username=Nixuge&theme=tokyonight&langs_count=10&layout=compact width="29%">
+<img src=https://ghstats.nixuge.me?username=Nixuge&theme=tokyonight&show_icons=true&count_private=true&custom_title=Nixuge's%20Stats%20-%20Last%201%20Year width="50%">
+<img src=https://ghstats.nixuge.me/top-langs?username=Nixuge&theme=tokyonight&langs_count=10&layout=compact width="29%">
 </p>
 <p>
-<img src=https://github-readme-stats-rust-kappa.vercel.app/api/wakatime?username=Nixuge&theme=tokyonight&langs_count=20&layout=compact max-width="41%">
+<img src=https://ghstats.nixuge.me/wakatime?username=Nixuge&theme=tokyonight&langs_count=20&layout=compact max-width="41%">
 </p>
